@@ -1,2 +1,2 @@
 My first readme
-Thanks
+How to be up to date with git
